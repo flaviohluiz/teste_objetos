@@ -1,0 +1,8 @@
+Model Information:
+* title:	Star Wars R2-D2 Bipedal
+* source:	https://sketchfab.com/3d-models/star-wars-r2-d2-bipedal-c78294a4a4064c4fb63d47c4dd749e02
+* author:	tegnemaskin (https://sketchfab.com/tegnemaskin)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
